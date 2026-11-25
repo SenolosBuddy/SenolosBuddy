@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Buddy+Senolos+Jr.!;BS+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Buddy+B.+Senolos+III!;BS+Information+Technology+Student" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/buddy-jr">
     <img src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" alt="GitHub Followers" />
   </a>
-  <a href="mailto:buddy.senolos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-buddy.senolos%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  <a href="mailto:Buddsenoloslll@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Buddsenoloslll%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   <a href="https://www.facebook.com/buddybalandraysenolosjr">
     <img src="https://img.shields.io/badge/Facebook-Connect-0891b2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook" />
@@ -16,10 +16,10 @@
 
 ---
 ### 👨‍💻 About Me:
-- 🎓 *BS Computer Science* student at Northwest Samar State University
+- 🎓 *BS Information Technology* student at Northwest Samar State University
 - 🌍 *Location:* Calbayog City, Western Samar, Philippines
 - 🔭 *Focus:* Building web applications, Building simple mobile application, and exploring full-stack development
-- 📫 *Reach me at:* [buddy.senolos@gmail.com](mailto:buddy.senolos@gmail.com)
+- 📫 *Reach me at:* [Buddsenoloslll@gmail.com](mailto:Buddsenoloslll@gmail.com)
 
 ---
 
@@ -46,5 +46,3 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="38" height="38" /></a>
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="38" height="38" /></a>
 </p>
-readme-typing-svg.demolab.com
-readme-typing-svg.demolab.com

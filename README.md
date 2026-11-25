@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me:
 - 🎓 *BS Information Technology* student at Northwest Samar State University
 - 🌍 *Location:* Calbayog City, Western Samar, Philippines
-- 🔭 *Focus:* Building web applications, Building simple mobile application, and exploring full-stack development
+- 🔭 *Focus:* Learning how to build simple web and mobile apps
 - 📫 *Reach me at:* [Buddsenoloslll@gmail.com](mailto:Buddsenoloslll@gmail.com)
 
 ---
